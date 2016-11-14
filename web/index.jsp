@@ -10,6 +10,7 @@
     <body>
         <h1>Login page!</h1>
         <p id="text">Welcome to my site, please login</p>
+        
         <form name="LoginForm" action="Login.jsp" method="POST">
             <table border="0">
                 <tbody>
