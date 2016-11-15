@@ -17,7 +17,9 @@
            if(request.getParameter("password")!= null && request.getParameter("username") != null){
                passwd = request.getParameter("password");
                uname = request.getParameter("username");
+               out.println("Success");
            }
+           out.println("Success");
         %>
         <form name="LoginForm" action="login.jsp" method="POST">
             <table border="0">
