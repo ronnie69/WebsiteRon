@@ -1,2 +1,2 @@
 # WebsiteRon
-My personal website try
+This is my First trial towards my personal website.
