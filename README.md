@@ -1,2 +1,2 @@
-# WebsiteRon
-My personal website try
+# WebsiteRon - My First Amazing Project
+My personal website. Hope you'll like it.
